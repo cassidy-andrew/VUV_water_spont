@@ -12,7 +12,7 @@ We describe a novel aspect of the structure of the hexagonal phase of crystallin
 
 \## Acknowledgements
 
-We acknowledge the Centre for Storage Ring Facilities at Aarhus (ISA) for granting access to the VUV beamline on the ASTRID2 storage ring. We also thank the staff at ISA for their technical assistance in performing our experiments, with special thanks to Nykola Jones and Søren Hoffmann. This work was supported by the Danish National Research Foundation through the Center of Excellence “InterCat” (Grant Agreement No. DNRF150), VILLUM FONDEN, through grant No. VIL70175.). 
+We acknowledge the Centre for Storage Ring Facilities at Aarhus (ISA) for granting access to the VUV beamline on the ASTRID2 storage ring. We also thank the staff at ISA for their technical assistance in performing our experiments, with special thanks to Nykola Jones and Søren Hoffmann. This work was supported by the Danish National Research Foundation through the Center of Excellence “InterCat” (Grant Agreement No. DNRF150), VILLUM FONDEN, through grant No. VIL70175.).
 
 
 
@@ -22,7 +22,9 @@ We acknowledge the Centre for Storage Ring Facilities at Aarhus (ISA) for granti
 
 
 
+\##Binder
 
 
 
+\[!\[Binder](https://mybinder.org/badge\_logo.svg)](https://mybinder.org/v2/gh/cassidy-andrew/VUV\_water\_spont/main)
 
