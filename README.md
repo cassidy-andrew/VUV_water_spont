@@ -26,5 +26,5 @@ We acknowledge the Centre for Storage Ring Facilities at Aarhus (ISA) for granti
 
 
 
-\[!\[Binder](https://mybinder.org/badge\_logo.svg)](https://mybinder.org/v2/gh/cassidy-andrew/VUV\_water\_spont/main)
+\[!\[Binder](https://mybinder.org/badge\_logo.svg)](https://mybinder.org/v2/gh/cassidy-andrew/VUV\_water\_spont/main?urlpath=%2Fdoc%2Ftree%2Fwater\_spont\_paper)
 

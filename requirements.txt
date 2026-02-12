@@ -3,11 +3,4 @@ pandas
 matplotlib
 openpyxl
 xlrd
-os 
-math
-cmath
-scipy
-seaborn
-glob
-sympy
 
